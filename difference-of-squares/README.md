@@ -16,7 +16,6 @@ ten natural numbers and the sum of the squares is 2640:
     3025 - 385 = 2640
 
 * * * *
-
 ## Source
 
 Problem 6 at Project Euler [view source](http://projecteuler.net/problem=6)
