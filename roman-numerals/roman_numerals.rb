@@ -1,3 +1,6 @@
+# use modular arithmetic (I think ruby has div-mod function) and a Dictionary of Roman numerals 
+# with their corresponding values to improve this implementation (29 NOVEMBER 2015)
+
 class Fixnum
 
   VERSION = 1
